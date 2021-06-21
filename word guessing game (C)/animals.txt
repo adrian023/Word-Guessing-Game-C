@@ -1,0 +1,7 @@
+rattlesnake
+buffalo
+hummingbird
+crocodile
+armadillo
+penguin
+mouse
